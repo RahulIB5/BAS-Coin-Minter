@@ -1,3 +1,5 @@
+#Don't see this readme.md its just for my reference ill update it once i learn how to host these dapps for free.
+
 # Check your Balance
 
 1. Find out your principal id:
